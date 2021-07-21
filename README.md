@@ -1,7 +1,7 @@
 <h1 align="left">Nikita Cherchelev (@nekovalue) 👋</h1>
 
 - 💻 Core Stack: **Go, JavaScript**. Mainly focused on Backend.
-- 🔥 Interested in Product Management, AI and Software Developing
+- 🔥 Interested in Product Management, AI, Software Developing and Cyber Security
 - 🚀 Working on <a href="https://github.com/nekovalue/unpckr" target="blank">unpckr</a>
 - 😌 <a href="https://t.me/nekovalue"  target="blank">Telegram</a> | <a href="https://nekovalue.com/"  target="blank">Website</a>
 - 👨‍💻 Linkedin : **@nekovalue**
