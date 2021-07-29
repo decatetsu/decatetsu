@@ -2,7 +2,7 @@
 
 - 💻 Core Stack: **Go, JavaScript**. Mainly focused on Backend.
 - 🔥 Interested in Product Management, AI, Software Developing and Cyber Security
-- 🚀 Working on <a href="https://github.com/nekovalue/QuickNotion" target="blank">unpckr</a>
+- 🚀 Working on <a href="https://github.com/nekovalue/QuickNotion" target="blank">QuickNotion</a>
 - 😌 <a href="https://t.me/nekovalue"  target="blank">Telegram</a> | <a href="https://nekovalue.com/"  target="blank">Website</a>
 - 👨‍💻 Linkedin : **@nekovalue**
 
