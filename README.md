@@ -1,6 +1,6 @@
-<h1 align="left">Nikita Cherchelev (@nekovalue) 👋</h1>
+<h1 align="left">Andy Efremov (@nekovalue) 👋</h1>
 
-- 💻 Core Stack: **Go, JavaScript**. Mainly focused on Backend.
+- 💻 Core Stack: **Go, C#, JavaScript**. Mainly focused on Backend.
 - 🔥 Interested in AI, Software Developing and Cyber Security
 - 🚀 Working on <a href="https://github.com/Nekodias" target="blank">Nekodias</a>
 - 😌 <a href="https://t.me/nekovalue" target="blank">Telegram</a> | <a href="https://nekovalue.com/" target="blank">Website</a> | <a href="https://www.linkedin.com/in/nekovalue/" target="blank">LinkedIn</a>
