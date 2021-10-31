@@ -1,4 +1,4 @@
-<h1 align="left">Andy Efremov (@nekovalue) 👋</h1>
+<h1 align="left">Andrew Efremov (@nekovalue) 👋</h1>
 
 - 💻 Core Stack: **Go, C#, JavaScript**. Mainly focused on Backend.
 - 🔥 Interested in AI, Software Developing and Cyber Security
