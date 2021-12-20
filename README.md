@@ -1,7 +1,7 @@
 <h1 align="left">Andrew Efremov (@nekovalue) 👋</h1>
 
-- 💻 Core Stack: **Go, C#, JavaScript**. Mainly focused on Backend.
-- 🔥 Interested in AI, Software Developing and Cyber Security
+- 💻 Featured languages: **Go, C#, PHP, JavaScript**. Mainly focused on Backend.
+- 🔥 Interested in AI, Desktop Software Developing and Cyber Security
 - 🚀 Working on <a href="https://github.com/nekovalue/sushi-world" target="blank">Sushi World</a>
 - 😌 <a href="https://t.me/nekovalue" target="blank">Telegram</a> | <a href="https://nekovalue.com/" target="blank">Website</a> | <a href="https://www.linkedin.com/in/nekovalue/" target="blank">LinkedIn</a>
 
