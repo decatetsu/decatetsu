@@ -6,5 +6,4 @@
 - 😌 <a href="https://t.me/ka1tzyu" target="blank">Telegram</a> | <a href="https://ka1tzyu.com/" target="blank">Website</a> | <a href="https://www.linkedin.com/in/ka1tzyu/" target="blank">LinkedIn</a>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ka1tzyu&show_icons=true&hide_title=true&count_private=true&theme=gotham" alt="stats" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ka1tzyu&layout=compact&count_private=true&theme=gotham" alt="stats" />
 <p>&nbsp;</p>
