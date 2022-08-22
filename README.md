@@ -1,4 +1,4 @@
-# Hello, I'm ka1tzyu.
+# Hello, I'm decatetsu.
 
 - 📕 1st year CE student
 - 💻 Featured languages: **C#, JS/TS**. Mainly focused on Backend
@@ -9,8 +9,8 @@
 ## Github Stats
 <div style="display:flex;flex-direction:column;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ka1tzyu&show_icons=true&theme=gotham&`show_icons=true&include_all_commits=true&count_private=true&show_owner=true" alt="ka1tzyu" width="45%" align="right"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ka1tzyu&theme=dark" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api?username=decatetsu&show_icons=true&theme=gotham&`show_icons=true&include_all_commits=true&count_private=true&show_owner=true" alt="ka1tzyu" width="45%" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=decatetsu&theme=dark" width="48%" >
 </div>
 <br/>
-<img src="https://activity-graph.herokuapp.com/graph?username=ka1tzyu&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" alt="ka1tzyu" align="center"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=decatetsu&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" alt="ka1tzyu" align="center"/>
