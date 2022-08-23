@@ -4,7 +4,7 @@
 - 💻 Featured languages: **C#, JS/TS**. Mainly focused on Backend
 - 🔥 Interested in ML, Software Engineering and Cyber Security
 - 🚀 Working on [Local Quotes](https://github.com/ka1tzyu/local-quotes)
-- 😌 Contact me: [Website](https://decatetsu.github.io) | [LinkedIn](https://www.linkedin.com/in/ka1tzyu)
+- 😌 Contact me: [Website](https://decatetsu.tech/) | [LinkedIn](https://www.linkedin.com/in/ka1tzyu)
 
 ## Github Stats
 <div style="display:flex;flex-direction:column;">
