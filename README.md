@@ -1,6 +1,6 @@
 # Hello, I'm decatetsu.
 
-- 📕 1st year CE student
+- 📕 2st year CE student
 - 💻 Featured languages: **C#, JS/TS**. Mainly focused on Backend
 - 🔥 Interested in ML, Software Engineering and Cyber Security
 - 🚀 Working on [Local Quotes](https://github.com/ka1tzyu/local-quotes)
