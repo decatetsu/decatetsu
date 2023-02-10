@@ -1,3 +1,5 @@
+<img src="https://www.codewars.com/users/decatetsu/badges/small?theme=dark">
+
 # Hello, I'm decatetsu.
 
 - 📕 2nd year CE student
